@@ -1,0 +1,1 @@
+[null,{"name":"helpSTATUS","temp":"","event-type":"1","actions":[{"gameName":"!phelp","gameLink":"","name":"Set Bot Game"}]},{"name":"status","temp":"","event-type":"1","actions":[{"status":"3","name":"Set Bot Status"}]},{"name":"1","temp":"Bot SERVER OFFLINE","event-type":"37","actions":[],"temp2":"OFFLINE.JS"}]
